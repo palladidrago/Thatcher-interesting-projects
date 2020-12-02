@@ -6,6 +6,7 @@
 * https://pi-hole.net/ - Pi hole, block ads, tracking.
 * A spotify client for KaiOs
 * An actual Spotify downloader for Joe Rogan.
+* https://www.lego.com/en-us/product/colosseum-10276 - Colusseum lego.
 
 ## Interesting courses 
 * http://security.cs.rpi.edu/courses/binexp-spring2015/ - Modern binary exploitations.
