@@ -12,6 +12,10 @@
 * http://security.cs.rpi.edu/courses/binexp-spring2015/ - Modern binary exploitations.
 * https://opensecuritytraining.info/ -  Open Security Training, everything about assembly and reverse engineering
 
+## Learning resources 
+* https://www.reddit.com/r/MachineLearning/comments/fdw0ax/d_advanced_courses_update/
+* Udemy, from torlook.
+
 ## Work in progress projects
 * gool-dl, no need to explain
 * https://github.com/palladidrago/Sharpie - Sharpie, an art yeshiva homework tracker.
